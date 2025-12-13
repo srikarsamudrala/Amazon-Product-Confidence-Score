@@ -1,8 +1,5 @@
 # Amazon Product Confidence Score 🚀
 
-**Team M15:** Srikar Samudrala, Diksha Bagade, Nirman Taterh, Tenzin Tayang  
-**Date:** December 2025
-
 ## 📌 Project Overview
 Fake and manipulated reviews have become a major challenge for Amazon’s marketplace, directly influencing search rankings, product visibility, and customer confidence. When reviews are artificially inflated, customers struggle to judge true quality, often leading to unmet expectations.
 
