@@ -35,7 +35,7 @@ The **Amazon Product Confidence Score** replaces the standard star rating with a
 
 **Formula:**
 
-$$\text{Confidence Score} = (0.35 \times \text{Spam Rating}) + (0.65 \times \text{Sentiment Rating})$$
+$$\text{Confidence Score} = (0.35 \times \text{Non Spam Rating}) + (0.65 \times \text{Sentiment Rating})$$
 
 * **Weighting:** 65% Sentiment / 35% Non-Spam Rating.
 * **Rationale:** Written reviews often capture the customer experience more accurately than simple star ratings.
